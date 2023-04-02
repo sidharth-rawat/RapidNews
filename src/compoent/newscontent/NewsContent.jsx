@@ -10,7 +10,7 @@ function NewsContent({newsArray, newsresult }) {
         <div className="content">
           <div className="downloadMessage">
             <span className="downloadText">
-              For the best experience use inshorts app on your smartphone
+            For the best experience use RapidNews app on your smartphone
             </span>
             <img
               alt="app store"

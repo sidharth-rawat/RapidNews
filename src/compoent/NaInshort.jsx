@@ -9,10 +9,7 @@ const NaInshort=({setcategories})=> {
           
         </div>
         <div className="icon">  <HamburgerDrawer setcategories={setcategories}/></div>
-        <img  style={{ cursor: "pointer" }}
-        src="https://assets.inshorts.com/website_assets/images/logo_inshorts.png"
-        height="80%"       
-        alt="" srcSet="" />
+        <p style={{cursor:'pointer', fontSize:'25px', fontFamily:'-moz-initial'}}>RapidNews</p>
     </div>
   )
 }
